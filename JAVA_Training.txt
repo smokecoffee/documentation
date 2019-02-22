@@ -1,0 +1,40 @@
+<I>
+. Client Server Model
+. Microservice Architecture
+. Cloud Computing
+. DevOps
+
+
+<II>
+. Application
+. Web Application (Server side, Client side)
+. Network/Network Programming (TCP/IP, HTTP, FTP, SMTP/POP3)
+. Database: SQL (Query, Transaction, Tuning), NoSQL (Mongo, ElasticSearch)
+. Big Data: Caching (EhCache, MemCache), Concurrency, HA, Hadoop
+. Security: Oauth2, CAS, LDAP, Encrypt/Decrypt (SHA, MD5)
+. DevOps/CD: DevOps Model, Docker, Jenkin
+
+
+<III>
++ Server Side
+ 
+	. Sync/Async Concept
+
+	. JAVA Core: Java API, Threading, I/O, Socket(TCP, UDP), Reflection, Generic, JAVA 8 (Stream, Lamda)
+
+	. JAVA EE: Servlet/JSP, JMS, JDBC, EJB
+
+	. Spring Framework:
+		* Boot 
+		* Core/Bean/Context/AOP/Batch/Security
+		* Spring MVC, Spring RESTful
+		* Spring Data JPA/Hibernate
+		* Spring JMS
+		* Spring Cloud (Microservice)
+
+	. WebServie: HTTP, RESTful, SOAP, XML, JSON
+
++ Client Side
+
+	. HTML5, CSS, JS (Angular, JQuery, React) 
+	. Hydrid (Cordova, Ionic)
