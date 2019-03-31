@@ -1,0 +1,3 @@
+https://access.cdn.redhat.com/developers/migrating-to-microservice-databases.pdf?_auth_=1550795002_f15d9dd08334a6d004bff5869adf5a35
+
+https://access.cdn.redhat.com/developers/introducing-istio-service-mesh-for-microservices.pdf?_auth_=1550794759_569550182498f8972879fcb47fde4b90
